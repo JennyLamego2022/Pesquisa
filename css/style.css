@@ -1,0 +1,15 @@
+body {
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+
+.enviar {
+    background: orange;
+    border: none;
+    border-bottom: #cccccc solid 2px;
+    border-radius: 20px;
+    color: white;
+    padding: 1em 2em;
+    text-transform: uppercase;
+}
