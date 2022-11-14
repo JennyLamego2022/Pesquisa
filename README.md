@@ -22,7 +22,8 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 - [x] Criar o visual da pagina; 
 - [x] Criar caixa para o estado ativo;
 - [x] Criar botao para o icone da estrela;
-- [ ] Quando passar o mouse por cima dos botoes das notas, ficam cinza claro;
+- [x] Quando passar o mouse por cima dos botoes das notas, ficam cinza claro;
+- [x] Quando passar o mouse por cima do botão enviar, fica branco;
 - [ ] Quando selecionar a nota o botão fica laranja;
 - [ ] Quando selecionar o botão de enviar fica branco;
 - [ ] Responsividade da pagina
