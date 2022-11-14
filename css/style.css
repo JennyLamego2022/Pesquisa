@@ -7,7 +7,7 @@ body {
         font-size: 16px;
     background-color: black;
     color: white;
-    text-align: center;
+    ;
 }
 
 #ativo {
@@ -18,13 +18,18 @@ body {
     width: 90vw;
 }
 
-img {
+.estrela {
     text-align: left;
-    margin-left: 5vw;
     margin-bottom: 1em;
+    background: #696969;
+    border: none;
+    border-bottom: #b3afaf solid 2px;
+    border-radius: 50%;
+    padding: 1em 1.1em;
 }
 
 .nota {
+    
     background: #696969;
     border: none;
     border-bottom: #b3afaf solid 2px;
