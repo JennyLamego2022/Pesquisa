@@ -44,7 +44,9 @@ body {
     color: #C0C0C0;
 }
 
-
+#notas {
+    text-align: center;
+}
 
 .nota {
     
@@ -70,6 +72,8 @@ body {
     border-radius: 20px;
     color: white;
     padding: 1em 2em;
+    padding-left: 80px;
+    padding-right: 80px;
     text-transform: uppercase;
     margin: auto;
     margin-top: 20px;

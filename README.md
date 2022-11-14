@@ -16,8 +16,9 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 - [x] Mensagem para o usuário
 - [x] Mudar cor da fonte da mensagem ao usuário;
 - [x] criar 5 botoes com as notas de 1 a 5;
+- [x] Centralizar botoes nota
 - [x] Criar um botao de enviar;
-- [ ] Formatar o tamanho do botão;
+- [x] Formatar o tamanho do botão;
 - [x] Criar o visual da pagina; 
 - [x] Criar caixa para o estado ativo;
 - [x] Criar botao para o icone da estrela;
