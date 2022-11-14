@@ -21,8 +21,14 @@ body {
     
 }
 
-#card {
-    
+.estrela {
+    text-align: left;
+    margin-bottom: 1em;
+    background: #363636;
+    border: none;
+    border-bottom: #b3afaf solid 2px;
+    border-radius: 50%;
+    padding: 3px 6px;
 }
 
 .titulo {
@@ -32,24 +38,18 @@ body {
 }
 
 .saudacao {
-    text-align: left;
+    text-align: justify;
     margin-top: 5px;
+    margin-bottom: 20px;
+    color: #C0C0C0;
 }
 
-.estrela {
-    text-align: left;
-    margin-bottom: 1em;
-    background: #696969;
-    border: none;
-    border-bottom: #b3afaf solid 2px;
-    border-radius: 50%;
-    padding: 1em 1.1em;
-}
+
 
 .nota {
     
     font-size: 10px;
-    background: #696969;
+    background: #363636;
     border: none;
     border-bottom: #b3afaf solid 2px;
     border-radius: 50%;
@@ -57,13 +57,14 @@ body {
     padding: 1em 1.5em;
     text-transform: uppercase;
     margin: 15px 0 5px 5px;
+    color: #C0C0C0;
 
 }
 
 .enviar {
     display: flex;
     justify-items: center;
-    background: orange;
+    background: #d75413;
     border: none;
     border-bottom: #cccccc solid 2px;
     border-radius: 20px;

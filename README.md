@@ -11,10 +11,10 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 
 - [x] Criar pagina estado ativo;
 - [x] Icone estrela;
-- [ ] Redefinir medidas do botao estrela
+- [x] Redefinir medidas do botao estrela
 - [x] Titulo, Como foi sua experienca com a gente?;
 - [x] Mensagem para o usuário
-- [ ] Mudar cor da fonte da mensagem ao usuário;
+- [x] Mudar cor da fonte da mensagem ao usuário;
 - [x] criar 5 botoes com as notas de 1 a 5;
 - [x] Criar um botao de enviar;
 - [ ] Formatar o tamanho do botão;
