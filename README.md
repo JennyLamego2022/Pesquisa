@@ -30,10 +30,10 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 
 ### Página estado enviado
 
-- [ ] Criar a pagina estado enviado;
-- [ ] Icone de envio de dados;
+- [x] Criar a pagina estado enviado;
+- [x] Icone de envio de dados;
 - [ ] Mensagem com a nota que selecionou;
-- [ ] Mensagem de Obrigado;
-- [ ] Mensagem de agradecimento;
-- [ ] Criar caixa para o estado enviado;
+- [x] Mensagem de Obrigado;
+- [x] Mensagem de agradecimento;
+- [x] Criar caixa para o estado enviado;
 - [ ] Criar caixa para a nota escolhida;
