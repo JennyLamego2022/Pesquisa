@@ -7,7 +7,7 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 
 ### Página estado ativo
 
-- [ ] Criar pagina estado ativo;
+- [x] Criar pagina estado ativo;
 - [x] Icone estrela;
 - [x] Titulo, Como foi sua experianca com a gente?;
 - [x] Mensagem para o usuário

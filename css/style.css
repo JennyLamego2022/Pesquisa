@@ -1,10 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    font-size: 16px;
+        font-size: 16px;
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+#ativo {
+    background: #191919;
+    border-radius: 10px;
+    padding:2em 2em;
+    margin: auto;
+    width: 90vw;
+}
+
+img {
+    text-align: left;
+    margin-left: 5vw;
+    margin-bottom: 1em;
+}
+
+.nota {
+    background: #696969;
+    border: none;
+    border-bottom: #b3afaf solid 2px;
+    border-radius: 50%;
+    color: white;
+    padding: 1em 1.5em;
+    text-transform: uppercase;
+
 }
 
 .enviar {
+    display: flex;
+    justify-items: center;
     background: orange;
     border: none;
     border-bottom: #cccccc solid 2px;
@@ -12,4 +45,6 @@ body {
     color: white;
     padding: 1em 2em;
     text-transform: uppercase;
+    margin: auto;
+    margin-top: 20px;
 }
