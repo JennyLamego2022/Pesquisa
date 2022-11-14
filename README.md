@@ -1,7 +1,9 @@
-# Pesquisa
-Pesquisa de satisfação do usuário
+# Pesquisa de Satifação
 
-O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúario possa responder clicando em uma nota.
+## Projeto em construção
+
+
+O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúario possa responder clicando em uma nota. 
 
 ### Lista de tarefas:
 
@@ -9,16 +11,20 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 
 - [x] Criar pagina estado ativo;
 - [x] Icone estrela;
-- [x] Titulo, Como foi sua experianca com a gente?;
+- [ ] Redefinir medidas do botao estrela
+- [x] Titulo, Como foi sua experienca com a gente?;
 - [x] Mensagem para o usuário
+- [ ] Mudar cor da fonte da mensagem ao usuário;
 - [x] criar 5 botoes com as notas de 1 a 5;
 - [x] Criar um botao de enviar;
-- [ ] Criar o visual da pagina; 
-- [ ] Criar caixa para o estado ativo;
-- [ ] Criar botao para o icone da estrela;
+- [ ] Formatar o tamanho do botão;
+- [x] Criar o visual da pagina; 
+- [x] Criar caixa para o estado ativo;
+- [x] Criar botao para o icone da estrela;
 - [ ] Quando passar o mouse por cima dos botoes das notas, ficam cinza claro;
 - [ ] Quando selecionar a nota o botão fica laranja;
 - [ ] Quando selecionar o botão de enviar fica branco;
+- [ ] Responsividade da pagina
 
 ### Página estado enviado
 

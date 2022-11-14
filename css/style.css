@@ -4,10 +4,10 @@
 }
 
 body {
-        font-size: 16px;
+    font-size: 12px;
     background-color: black;
     color: white;
-    ;
+    
 }
 
 #ativo {
@@ -15,7 +15,25 @@ body {
     border-radius: 10px;
     padding:2em 2em;
     margin: auto;
-    width: 90vw;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 45vw;
+    
+}
+
+#card {
+    
+}
+
+.titulo {
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+
+.saudacao {
+    text-align: left;
+    margin-top: 5px;
 }
 
 .estrela {
@@ -30,6 +48,7 @@ body {
 
 .nota {
     
+    font-size: 10px;
     background: #696969;
     border: none;
     border-bottom: #b3afaf solid 2px;
@@ -37,6 +56,7 @@ body {
     color: white;
     padding: 1em 1.5em;
     text-transform: uppercase;
+    margin: 15px 0 5px 5px;
 
 }
 
