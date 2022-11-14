@@ -45,7 +45,7 @@ body * {
     text-align: justify;
     margin-top: 5px;
     margin-bottom: 20px;
-    color: #C0C0C0;
+    color: hsl(217, 12%, 63%);;
 }
 
 #notas {
@@ -104,4 +104,34 @@ body * {
     color: #d75413;
     border-bottom: #d75413 solid 3px;
     
+}
+
+#ativado {
+    text-align: center;
+    background: #191919;
+    border-radius: 10px;
+    padding:2em 2em;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 45vw;
+    
+}
+
+.notaselecionada {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    color:  hsl(217, 12%, 63%);
+    
+}
+
+.obrigado {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color:  white
+}
+
+.agradecimento {
+    color:  hsl(217, 12%, 63%);
 }
