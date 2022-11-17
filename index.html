@@ -26,13 +26,15 @@
 
                 <p class="saudacao"> Por favor, deixe-nos saber como foi a sua experiência conosco, onde nota 1 foi bem fraco e nota 5 foi maravilhoso. Sua avaliação é muito importante para nós!</p>
                     <div id="notas">
-                        <button class="nota" id="numero1" value="1">1</button>
-                        <button class="nota" id="numero2" value="2">2</button>
-                        <button class="nota" id="numero3" value="3">3</button>
-                        <button class="nota" id="numero4" value="4">4</button>
-                        <button class="nota" id="numero5" value="5">5</button>
+                        <button type="button" onclick ="salvar()" class="nota" id="numero1" value="1">1</button>
+                        <button type="button" onclick="salvar()" class="nota" id="numero2" value="2">2</button>
+                        <button type="button" onclick="salvar()" class="nota" id="numero3" value="3">3</button>
+                        <button type="button" onclick="salvar()" class="nota" id="numero4" value="4">4</button>
+                        <button type="button" onclick="salvar()" class="nota" id="numero5" value="5">5</button>
+                        <!--<h3 id="resultado"> teste</h3>-->
                     </div>
-                <button class="enviar"><a href="./indexativado.html">Enviar</a></button>
+                    
+                <button type="button" onclick="enviar()" class="enviar" id="enviar"><a href="./indexativado.html">Enviar</a></button>
             </main>
         </div>
     
