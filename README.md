@@ -27,7 +27,7 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 - [x] Quando passar o mouse por cima do botão enviar, fica branco;
 - [x] Quando selecionar a nota o botão fica laranja;
 - [x] Quando selecionar o botão de enviar fica branco;
-- [ ] Responsividade da pagina
+- [x] Responsividade da pagina
 
 ### Página estado enviado
 

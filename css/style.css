@@ -135,3 +135,12 @@ body * {
 .agradecimento {
     color:  hsl(217, 12%, 63%);
 }
+
+@media (min-width: 700px) {
+    #ativo, #ativado {
+      max-width: 400px;
+      flex-direction: row;
+      flex-wrap: wrap;
+      position: relative;
+    }
+}
