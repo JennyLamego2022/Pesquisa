@@ -21,7 +21,7 @@ body * {
     margin: auto;
     margin-top: 80px;
     margin-bottom: 80px;
-    width: 45vw;
+    max-width: 400px;
     
 }
 
@@ -114,7 +114,7 @@ body * {
     margin: auto;
     margin-top: 80px;
     margin-bottom: 80px;
-    width: 45vw;
+    max-width: 400px;
     
 }
 

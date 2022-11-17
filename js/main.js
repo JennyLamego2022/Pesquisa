@@ -54,7 +54,7 @@ function salvar() {
 
 function enviar() {
     
-        document.getElementById("numero1").value = localStorage.info;
+        document.getElementById("resultado").value = localStorage.info;
        // notas.forEach((nota) => {
          // nota.addEventListener("click", () => {
            // console.log(nota.innerHTML)
