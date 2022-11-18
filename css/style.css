@@ -1,18 +1,16 @@
 * {
     margin: 0;
-    padding: 0;
-    
+    padding: 0;  
+      
 }
 
-body {
+body  {
     font-size: 12px;
     background-color: black;
     color: white;
     font-family: 'Overpass', sans-serif;
-    
+    text-align: center;    
 }
-
-
 
 #ativo {
     background: #191919;
@@ -21,29 +19,25 @@ body {
     margin: auto;
     margin-top: 80px;
     margin-bottom: 80px;
-    max-width: 400px;
-    
+    max-width: 400px;    
 }
 
 .estrela {
-    text-align: left;
     margin-bottom: 1em;
     background: #363636;
     border: none;
-    border-bottom: #b3afaf solid 2px;
     border-radius: 50%;
     padding: 3px 6px;
 }
 
 .titulo {
     margin-bottom: 10px;
-    text-align: left;
-
+    text-align: center;
 }
 
-.saudacao {
-    text-align: justify;
-    margin-top: 5px;
+#saudacao {
+    text-align:center;
+    margin-top: 20px;
     margin-bottom: 20px;
     color: hsl(217, 12%, 63%);;
 }
@@ -64,7 +58,11 @@ body {
     text-transform: uppercase;
     margin: 15px 0 5px 5px;
     color: #C0C0C0;
+}
 
+#resultado {
+color: hsl(25, 97%, 53%);
+font-size: 8px;
 }
 
 .enviar {
@@ -81,6 +79,7 @@ body {
     text-transform: uppercase;
     margin: auto;
     margin-top: 20px;
+    text-decoration:none ;
 }
 
 .nota:hover {
@@ -88,9 +87,7 @@ body {
     transition: transform 0.3s;
     background-color:hsl(217, 12%, 63%);
     color: white;
-    border-bottom: white solid 2px;
-    
-
+    border-bottom: white solid 2px;  
 }
 
 .nota:active {
@@ -102,11 +99,11 @@ body {
     transition: transform 0.3s;
     background-color: white;
     color: #d75413;
-    border-bottom: #d75413 solid 3px;
-    
+    border-bottom: #d75413 solid 3px; 
 }
 
 #ativado {
+    font-size: 12px;
     text-align: center;
     background: #191919;
     border-radius: 10px;
@@ -114,22 +111,26 @@ body {
     margin: auto;
     margin-top: 80px;
     margin-bottom: 80px;
+    min-width: 400px;   
     max-width: 400px;
-    
 }
 
-.notaselecionada {
+/*.notaselecionada {
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 10px;
-    color:  hsl(217, 12%, 63%);
-    
-}
+    color:  hsl(217, 12%, 63%); 
+}*/
 
 .obrigado {
-    margin-top: 20px;
-    margin-bottom: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     color:  white
+}
+
+.obrigado:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s;
 }
 
 .agradecimento {
