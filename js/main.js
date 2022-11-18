@@ -8,20 +8,23 @@ let pegaNumero5= document.querySelector("#numero5")
 
 
 pegaNumero1.addEventListener('click', ()=>{
-    pegaResultado.innerHTML = ` a nota  ${pegaNumero1.value}`
+    pegaResultado.innerHTML = `Nota  ${pegaNumero1.value} escolhida. Se estiver correta, favor ENVIAR sua pesquisa.`
   })
 pegaNumero2.addEventListener('click', ()=>{
-  pegaResultado.innerHTML = ` a nota  ${pegaNumero2.value}`
+    pegaResultado.innerHTML = `Nota  ${pegaNumero2.value} escolhida. Se estiver correta, favor ENVIAR sua pesquisa.`
 })
 pegaNumero3.addEventListener('click', ()=>{
-    pegaResultado.innerHTML = ` a nota  ${pegaNumero3.value}`
+    pegaResultado.innerHTML = `Nota  ${pegaNumero3.value} escolhida. Se estiver correta, favor ENVIAR sua pesquisa.`
 })
 pegaNumero4.addEventListener('click', ()=>{
-  pegaResultado.innerHTML = ` a nota  ${pegaNumero4.value}`
+    pegaResultado.innerHTML = `Nota  ${pegaNumero4.value} escolhida. Se estiver correta, favor ENVIAR sua pesquisa.`
 })
 pegaNumero5.addEventListener('click', ()=>{
- pegaResultado.innerHTML = ` a nota ${pegaNumero5.value}`
+    pegaResultado.innerHTML = `Nota ${pegaNumero5.value} escolhida. Se estiver correta, favor ENVIAR sua pesquisa.`
 })
+
+
+
 
 
 
