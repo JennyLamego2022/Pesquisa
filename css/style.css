@@ -139,9 +139,15 @@ font-size: 8px;
 
 @media (min-width: 700px) {
     #ativo, #ativado {
-      max-width: 400px;
-      flex-direction: row;
-      flex-wrap: wrap;
-      position: relative;
+        font-size: 25px;
+        width: 100vw;
+        max-width: 70vw;
+        flex-direction: row;
+        flex-wrap: wrap;
+       
     }
 }
+
+
+
+
