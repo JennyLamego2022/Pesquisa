@@ -102,17 +102,23 @@ font-size: 8px;
     border-bottom: #d75413 solid 3px; 
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
 #ativado {
     font-size: 12px;
     text-align: center;
     background: #191919;
     border-radius: 10px;
     padding:2em 2em;
-    margin: auto;
+    margin: 0 auto;
     margin-top: 80px;
     margin-bottom: 80px;
-    min-width: 400px;   
-    max-width: 400px;
+    width: 40vw;
 }
 
 /*.notaselecionada {
@@ -137,17 +143,30 @@ font-size: 8px;
     color:  hsl(217, 12%, 63%);
 }
 
-@media (min-width: 700px) {
-    #ativo, #ativado {
-        font-size: 25px;
-        width: 100vw;
+/* @media (min-width: 768px) {
+    #ativado {
+        font-size: 1.5em;
+        width: 30vw;
         max-width: 70vw;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
+        height: 30vw;
+        margin: 0;
+        margin-top: 60px;
+
        
     }
-}
+    #card {
+        height: fit-content;
+    }
+} */
 
 
-
+/* @media only screen and (max-width:768px) {
+     #ativado {
+       
+            width:50%;
+            height:100vw;
+            }
+} */
 
