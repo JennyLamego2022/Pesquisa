@@ -1,9 +1,29 @@
-# Pesquisa de Satifação
+# <h1 align="center"> Pesquisa de Satifação do Usuário</h1>
 
-## Projeto em construção
+O projeto é uma pesquisa de satisfação em um componente interativo, com notas de 1 a 5, para que o usuário possa responder clicando em uma nota.
 
 
-O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúario possa responder clicando em uma nota. 
+## 🚀 Link do projeto para visualização no navegador
+
+https://jennylamego2022.github.io/Pesquisa
+
+
+### 📋 Pré-requisitos
+
+Para que possa baixar esse projeto, será necessario ter instalado em sua máquina um Visual Studio Code.
+
+```
+Uma opção de link para o download:
+
+https://code.visualstudio.com/download
+```
+
+
+### ✔️ Técnicas e tecnologias utilizadas
+
+- ``JavaScript``
+- ``HTML``
+- ``css``
 
 ### Lista de tarefas:
 
@@ -36,3 +56,12 @@ O projeto é uma pesquisa de satisfação, com notas de 1 a 5, para que o usúar
 - [x] Mensagem de Obrigado;
 - [x] Mensagem de agradecimento;
 - [x] Criar caixa para o estado enviado;
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Agradeço a todos osque fazem parte dessa nova etapa!! 🫂;
+
+
+---
+⌨️ com ❤️ por [Jennyfer Lamego - Dev em Desenvolvimento 😊]
