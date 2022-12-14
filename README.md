@@ -8,15 +8,24 @@ O projeto é uma pesquisa de satisfação em um componente interativo, com notas
 https://jennylamego2022.github.io/Pesquisa
 
 
-### 📋 Pré-requisitos
+# 📋  Pré-requisitos para rodar <a name="id05"></a>
 
-Para que possa baixar esse projeto, será necessario ter instalado em sua máquina um Visual Studio Code.
-Uma opção de link para o download:
+<br />
 
-```
+- [x] Editor de código de sua preferência (recomendado VS code)
+- [x] Git
+- [x] ?
 
-https://code.visualstudio.com/download
+<br />
 
+# 📝 Procedimentos de instalação <a name="id06"></a>
+
+<br />
+
+Clone este repositório usando o comando:
+
+```bash
+git clone https://github.com/<meu_user>/<my-repo>.git
 ```
 
 
@@ -57,11 +66,6 @@ https://code.visualstudio.com/download
 - [x] Mensagem de Obrigado;
 - [x] Mensagem de agradecimento;
 - [x] Criar caixa para o estado enviado;
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Agradeço a todos osque fazem parte dessa nova etapa!! 
 
 
 ---
